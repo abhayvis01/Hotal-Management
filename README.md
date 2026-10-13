@@ -1,4 +1,4 @@
-# BlueBird - Hotel & Resort Management Web Application
+# Hotel Management Web Application
 
 A full-featured, luxury Hotel Management System built with React 19, Tailwind CSS v4, and Vite.
 
